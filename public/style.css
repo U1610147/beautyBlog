@@ -1,0 +1,16 @@
+ h1{
+    text-align: center;
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 40px;
+
+ }
+ .i{
+ 	height: 15%;
+ 	width: 15%;
+ }
+ .i1{
+ 	width: 100%;
+ }
+li{
+	color: pink;
+}
